@@ -71,7 +71,5 @@ const string & Party::getName() const
 
 void Party::step(Simulation &s)
 {
-    if(false)
-        return;
     // TODO: implement this method
 }
